@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    android:minHeight="300dp">
+
+    <CheckBox
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cb1"
+        android:checked="false"
+        android:clickable="true"
+        android:onClick="onCheckboxClicked"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/cb3"
+        android:layout_alignEnd="@+id/cb3"
+        android:drawableRight="@drawable/cnn"
+        android:text="CNN"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:height="200dp"
+        android:minHeight="80dp" />
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cb2"
+        android:layout_below="@+id/cb1"
+        android:layout_centerHorizontal="true"
+        android:checked="false"
+        android:clickable="true"
+        android:onClick="onCheckboxClicked"
+        android:drawableRight="@drawable/bbc"
+        android:text="BBC"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:minHeight="80dp" />
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cb3"
+        android:layout_below="@+id/cb2"
+        android:layout_alignLeft="@+id/cb2"
+        android:layout_alignStart="@+id/cb2"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="true"
+        android:checked="false"
+        android:clickable="true"
+        android:onClick="onCheckboxClicked"
+        android:drawableRight="@drawable/nytimes"
+        android:text="New York Times"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:minHeight="80dp" />
+
+    <CheckBox
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:id="@+id/cb4"
+        android:checked="false"
+    android:clickable="true"
+    android:onClick="onCheckboxClicked"
+    android:drawableRight="@drawable/usa"
+        android:layout_below="@+id/cb6"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="USA Today"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:minHeight="80dp" />
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cb5"
+        android:checked="false"
+        android:clickable="true"
+        android:onClick="onCheckboxClicked"
+        android:drawableRight="@drawable/verge"
+        android:text="The Verge"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_below="@+id/cb4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:minHeight="80dp" />
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cb6"
+        android:checked="false"
+        android:clickable="true"
+        android:onClick="onCheckboxClicked"
+        android:drawableRight="@drawable/engadget"
+        android:layout_below="@+id/cb3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Engadget"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:minHeight="80dp" />
+
+</RelativeLayout>

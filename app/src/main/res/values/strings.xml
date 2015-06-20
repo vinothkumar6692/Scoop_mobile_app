@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Scoop</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="trial1">Trial1</string>
+
+    <string name="title_section1">Scoop for me</string>
+    <string name="title_section2">Things I follow</string>
+    <string name="title_section3">Logout</string>
+
+    <string name="title_section4">Logout</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="logout">Logout</string>
+    <string name="loginText">Please login with your Google Account</string>
+    <string name="details">This is the detailed news</string>
+
+</resources>
