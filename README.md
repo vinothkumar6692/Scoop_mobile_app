@@ -1,6 +1,6 @@
 # Scoop_mobile_app
 
-![ScreenShot](https://drive.google.com/file/d/0BzylK71EvUjtTW9NalpWQnVBMmM/edit)
+![ScreenShot](https://raw.github.com/{vinothkumar6692/{Scoop_mobile_app}/master/Scoop_logo.jpg)
 
 This repository contains the source code of "Scoop" - An Android News reader app
 
