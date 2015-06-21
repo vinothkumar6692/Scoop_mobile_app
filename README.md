@@ -9,3 +9,14 @@ This repository contains the source code of "Scoop" - An Android News reader app
 The unique feature that distinguishes this app from other similar apps existing in the market is that the app always gives you access to news information irrespective of network connectivity.
 
 The creators of this app have achieved this by leveraging your phone's local memory to store the latest information. This allows the user to access news information and stay connected with the current trends even when offline.
+
+App Demo Youtube Links:
+
+Part 1:
+https://www.youtube.com/watch?v=XUnvhnCyhyE&feature=youtu.be
+
+Part 2:
+https://www.youtube.com/watch?v=XANnqCb7_wE&feature=youtu.be
+
+Part 3:
+https://www.youtube.com/watch?v=LWfZpRV2O5c&feature=youtu.be
