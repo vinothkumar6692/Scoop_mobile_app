@@ -1,6 +1,6 @@
 # Scoop_mobile_app
 
-![ScreenShot](http://s12.postimg.org/pyacgt7st/025_Pikachu_OS_anime_4.png)
+![ScreenShot](http://s24.postimg.org/uqrshfg0l/Scoop_logo.jpg)
 
 This repository contains the source code of "Scoop" - An Android News reader app
 
