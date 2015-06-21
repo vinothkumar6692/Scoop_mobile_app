@@ -1,4 +1,5 @@
 # Scoop_mobile_app
+------------------
 
 ![ScreenShot](http://s24.postimg.org/uqrshfg0l/Scoop_logo.jpg)
 
